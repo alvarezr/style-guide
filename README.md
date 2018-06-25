@@ -4,5 +4,5 @@ JavaScript, CSS/Sass and DS style guide
 Style Guides
 
 - [JavaScript](javascript.md)
-- CSS & Sass
+- [CSS & Sass](css_sass.md)
 - Demandware
